@@ -1,0 +1,14 @@
+D:\Проекты\Provodnik\bin\Debug\net6.0\Provodnik.exe
+D:\Проекты\Provodnik\bin\Debug\net6.0\Provodnik.deps.json
+D:\Проекты\Provodnik\bin\Debug\net6.0\Provodnik.runtimeconfig.json
+D:\Проекты\Provodnik\bin\Debug\net6.0\Provodnik.dll
+D:\Проекты\Provodnik\bin\Debug\net6.0\Provodnik.pdb
+D:\Проекты\Provodnik\obj\Debug\net6.0\Provodnik.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты\Provodnik\obj\Debug\net6.0\Provodnik.AssemblyInfoInputs.cache
+D:\Проекты\Provodnik\obj\Debug\net6.0\Provodnik.AssemblyInfo.cs
+D:\Проекты\Provodnik\obj\Debug\net6.0\Provodnik.csproj.CoreCompileInputs.cache
+D:\Проекты\Provodnik\obj\Debug\net6.0\Provodnik.dll
+D:\Проекты\Provodnik\obj\Debug\net6.0\refint\Provodnik.dll
+D:\Проекты\Provodnik\obj\Debug\net6.0\Provodnik.pdb
+D:\Проекты\Provodnik\obj\Debug\net6.0\Provodnik.genruntimeconfig.cache
+D:\Проекты\Provodnik\obj\Debug\net6.0\ref\Provodnik.dll
